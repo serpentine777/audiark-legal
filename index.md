@@ -14,3 +14,10 @@ To support the development of Audiark, we use third-party services:
 
 ## 3. Contact Us
 If you have any questions regarding this Privacy Policy, please contact us at avazhnenkowork@gmail.com.
+
+# Audiark Legal Documents
+
+- [Privacy Policy (EN)](Privacy_Policy_EN.md.md)
+- [Політика конфіденційності (UKR)](Privacy_Policy_UKR.md.md)
+- [Terms of Use (EN)](Terms_of_Use_EN.md.md)
+- [Умови використання (UKR)](Terms_of_Use_UKR.md.md)
